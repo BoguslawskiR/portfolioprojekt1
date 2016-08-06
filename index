@@ -1,13 +1,15 @@
-<!DOCTYPE html>
-<HTML>
-<HEAD>
+<!doctype html>
+<html>
+<head>
 
-<META charset="UTF8">
+<meta charset="UTF8">
+<link rel="Stylesheet" type="text/css" href="style.css" />
+<meta name="viewport" content="width=device-width">
 
-</HEAD>
+</head>
 
-<BODY>
+<body>
 
 
-</BODY>
-</HTML>
+</body>
+</html>
