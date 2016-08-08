@@ -21,14 +21,15 @@ nav {
     background-repeat: no-repeat;
     background-size: cover;
     display: flex;
+    justify-content: center;
+	align-items: center;
 }
 
 
 .text-lp {
-	width: 300px;
-	height: 200px;
 	flex: 1;
-	justify-content: center;
-	align-items: center;
+	text-align: center;
+	background-color: rgba(100, 100, 100, 0.25);
+	margin: auto;
 }
 
