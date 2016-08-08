@@ -9,7 +9,17 @@
 </head>
 
 <body>
+<nav>
 
+</nav>
+<section class="landing-page">
+<div class="parallax">
+</div>
+</section>
+<section class="about">
+	<div class="about">
+	</div>
+</section>
 
 </body>
 </html>
