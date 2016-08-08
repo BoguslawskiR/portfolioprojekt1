@@ -2,6 +2,7 @@ html, body {
 	background: white;
 	height: 100%;
 	margin:0;
+	font-family: 'Ubuntu', sans-serif;
 }
 
 nav {
@@ -9,6 +10,19 @@ nav {
 	display: none;
 	position: fixed;
 	top: 0;
+}
+
+h1 {
+	font-size: 64px;
+	margin-bottom: 0;
+	margin-top: 10px;
+	padding-bottom: 0;
+}
+
+footer {
+	text-align: center;
+	background-color: rgb(100, 100, 100);
+	color: white;
 }
 
 .parallax {
@@ -27,9 +41,19 @@ nav {
 
 .text-lp {
 	text-align: center;
-	background-color: rgb(100, 100, 100);
+	background-color: rgba(100, 100, 100, 0.9);
 	color: white;
 	margin: auto;
 	width: 50%;
 }
+
+.header {
+	text-align: center;
+	font-size: 32px;
+	border-bottom: solid 1px black;
+	width: 90%;
+	margin: auto;
+}
+
+
 
